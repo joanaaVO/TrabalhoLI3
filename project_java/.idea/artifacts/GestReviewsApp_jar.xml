@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GestReviewsApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GestReviewsApp_jar</output-path>
+    <root id="archive" name="project_java.jar">
+      <element id="module-output" name="project_java" />
+    </root>
+  </artifact>
+</component>

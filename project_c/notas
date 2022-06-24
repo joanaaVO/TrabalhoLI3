@@ -1,0 +1,9 @@
+alterar diretoria dos ficheiros em sgr.c
+
+problemas:
+    fazer parse para a estrura USER o campo friends (comentado para já)
+    fazer parse para a estrutura BUSINESS o campo categories (comentado para já)
+
+
+partir os ficheiros csv num mais pequeno
+> Get-Content .\users_full.csv | select -First 875790 | Out-File .\usersMini.csv
